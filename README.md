@@ -1,4 +1,4 @@
-# Hey 👋
+# Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 📌Olá, meu nome é Murilo, já trabalhei como desenvolvedor de games 🎮, atualmente focado em Web, front-end e back-end 🖥️.
   
 <div>
