@@ -1,5 +1,5 @@
 # Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-📌Olá, meu nome é Murilo, já trabalhei como desenvolvedor de games 🎮, atualmente focado em Web, front-end e back-end 🖥️.
+📌Olá, meu nome é Murilo, já trabalhei como suporte técnico(TI), front-end e com desenvolvimento de games 🎮, atualmente focado em Web, front-end e back-end 🖥️.
   
 <div>
   <a href="https://github.com/MuriloNP">
