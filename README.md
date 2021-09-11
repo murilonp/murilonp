@@ -49,5 +49,6 @@ Follow me: 👇
 
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=TelaDeCadastro-readme-stats)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=TelaDeCadastro&theme=midnight-purple)](https://github.com/MuriloNP/TelaDeCadastro)
+
     
