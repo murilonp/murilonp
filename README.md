@@ -49,7 +49,7 @@ Follow me: 👇
 
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=tela-de-cadastro&theme=radical)](https://github.com/MuriloNP/tela-de-cadastro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=tela-de-cadastro&theme=midnight-purple)](https://github.com/MuriloNP/tela-de-cadastro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=sistema-hoteleiro&theme=midnight-purple)](https://github.com/MuriloNP/sistema-hoteleiro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=formulario-de-login&theme=midnight-purple)](https://github.com/MuriloNP/formulario-de-login)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=relogio-digital&theme=midnight-purple)](https://github.com/MuriloNP/relogio-digital)
