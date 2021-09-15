@@ -3,8 +3,8 @@
   
 <div>
   <a href="https://github.com/MuriloNP">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloNP&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloNP&layout=compact&langs_count=7&theme=midnight-purple">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloNP&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloNP&layout=compact&langs_count=7&theme=github_dark">
 </div>
 
 #### 🌎 "Vontade, Objetivo e Consistência".
@@ -52,9 +52,9 @@ Follow me: 👇
 
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=tela-de-cadastro&theme=midnight-purple)](https://github.com/MuriloNP/tela-de-cadastro)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=sistema-hoteleiro&theme=midnight-purple)](https://github.com/MuriloNP/sistema-hoteleiro)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=projeto-responsividade&theme=midnight-purple)](https://github.com/MuriloNP/projeto-responsividade)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=relogio-digital&theme=midnight-purple)](https://github.com/MuriloNP/relogio-digital)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=tela-de-cadastro&theme=github_dark)](https://github.com/MuriloNP/tela-de-cadastro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=sistema-hoteleiro&theme=github_dark)](https://github.com/MuriloNP/sistema-hoteleiro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=projeto-responsividade&theme=github_dark)](https://github.com/MuriloNP/projeto-responsividade)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=relogio-digital&theme=github_dark)](https://github.com/MuriloNP/relogio-digital)
 
     
