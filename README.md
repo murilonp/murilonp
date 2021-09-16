@@ -31,14 +31,14 @@
 ##
 Follow me: 👇
 <div >
-  <a href = "mailto:murilloprado457@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><a/>
-  <a href = "https://www.linkedin.com/in/murilo-nascimento-473162205"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
-  <a href = "https://www.facebook.com/murilo.prado.73"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"><a/>
-  <a href = "https://www.instagram.com/murilloprado_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><a/>
-  <a href = "#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"><a/>
-  <a href = "https://github.com/MuriloNP"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"><a/>
-  <a href = "https://steamcommunity.com/profiles/76561198293528191/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"><a/>
-  <a href = "https://open.spotify.com/user/nascimento_prado15"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"><a/>  
+  <a href = "mailto:murilloprado457@gmail.com"><img align="center" height="35" src="https://cdn0.iconfinder.com/data/icons/lumin-social-media-icons/512/Gmail-512.png" target="_blank"><a/>
+  <a href = "https://www.linkedin.com/in/murilo-nascimento-473162205"><img align="center" height="35" src="https://cdn2.iconfinder.com/data/icons/social-18/512/LinkedIn-512.png" target="_blank"><a/>
+  <a href = "https://www.facebook.com/murilo.prado.73"><img align="center" height="35" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-facebook_-512.png" target="_blank"><a/>
+  <a href = "https://www.instagram.com/murilloprado_"><img align="center" height="35" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" target="_blank"><a/>
+  <a href = "https://github.com/MuriloNP"><img align="center" height="35" src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/github-512.png" target="_blank"><a/>
+  <a href = "#"><img align="center" height="35" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" target="_blank"><a/>
+  <a href = "https://steamcommunity.com/profiles/76561198293528191/"><img align="center" height="35" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/steam-512.png" target="_blank"><a/>
+  <a href = "https://open.spotify.com/user/nascimento_prado15"><img align="center" height="35" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_spotify-512.png" target="_blank"><a/>  
 </div>
     
 <a href = "#">![Snake animation](https://github.com/MuriloNP/murilonp/blob/output/github-contribution-grid-snake.svg)<a/>
