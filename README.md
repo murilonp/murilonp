@@ -32,7 +32,7 @@ Follow me: 👇
 <div>
   <a href = "mailto:murilloprado457@gmail.com"><img align="center" height="35" src="https://cdn0.iconfinder.com/data/icons/lumin-social-media-icons/512/Gmail-512.png" target="_blank"><a/>
   &nbsp;&nbsp;
-  <a href = "https://www.linkedin.com/in/murilo-nascimento-473162205"><img align="center" height="35" src="https://cdn2.iconfinder.com/data/icons/social-18/512/LinkedIn-512.png" target="_blank"><a/>
+  <a href = "https://www.linkedin.com/in/murilo-nascimento-473162205"><img align="center" height="35" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" target="_blank"><a/>
   &nbsp;&nbsp;
   <a href = "https://www.facebook.com/murilo.prado.73"><img align="center" height="35" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-facebook_-512.png" target="_blank"><a/>
   &nbsp;&nbsp;
