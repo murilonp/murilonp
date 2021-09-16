@@ -25,7 +25,7 @@
   <img align="center" alt="Murilo-Bash" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Murilo-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Murilo-VSCode" height="40" src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif?cid=ecf05e47592ngxh8c5udlev3svhb9dvrwyhqevhh1tuy79eg&rid=giphy.gif&ct=s">
-  <img align="right" alt="Murilo" height="100" src="https://media0.giphy.com/media/ejfEZhz0nh2kR0SZzn/giphy.gif?cid=790b7611c1ca2127d92628a9496bdb9ab191520375a03672&rid=giphy.gif&ct=s">
+  
 </div>
   
 ##
