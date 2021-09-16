@@ -23,7 +23,6 @@
   <img align="center" alt="Murilo-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Murilo-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Murilo-Bash" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Murilo-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Murilo-VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   
 </div>
