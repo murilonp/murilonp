@@ -17,12 +17,13 @@
   <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Murilo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Murilo-React" height="30" src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e47cgd4osu9yl4ji7xflm8x5lc0tpasbnr84jrlsp50&rid=giphy.gif&ct=s">
+  <img align="center" alt="Murilo-Nextjs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="Murilo-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Murilo-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Murilo-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Murilo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Murilo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Murilo-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Murilo-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Murilo-VSCode" height="30" src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif?cid=ecf05e47592ngxh8c5udlev3svhb9dvrwyhqevhh1tuy79eg&rid=giphy.gif&ct=s">
   <img align="right" alt="Murilo" height="100" src="https://media0.giphy.com/media/ejfEZhz0nh2kR0SZzn/giphy.gif?cid=790b7611c1ca2127d92628a9496bdb9ab191520375a03672&rid=giphy.gif&ct=s">
 </div>
