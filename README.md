@@ -1,7 +1,7 @@
 # Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 📌Olá, meu nome é Murilo, já trabalhei como suporte técnico(TI), Front-End e com desenvolvimento de games 🎮, atualmente focado em Web, Front-End e Back-End 🖥️.
   
-<div>
+<div align="center">
   <a href="https://github.com/MuriloNP">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloNP&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloNP&layout=compact&langs_count=7&theme=github_dark">
