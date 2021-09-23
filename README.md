@@ -48,7 +48,7 @@ Follow me: 👇
   <a href = "https://open.spotify.com/user/nascimento_prado15"><img align="center" height="35" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_spotify-512.png" target="_blank"><a/>
 </div>
     
-<a href = "#">![Snake animation](https://github.com/MuriloNP/murilonp/blob/output/github-contribution-grid-snake.svg)<a/>
+![Snake animation](https://github.com/MuriloNP/murilonp/blob/output/github-contribution-grid-snake.svg)
     
 <p align="center"> 
 
