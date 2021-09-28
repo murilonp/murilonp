@@ -39,8 +39,6 @@ Follow me: 👇
   &nbsp;&nbsp;
   <a href = "https://www.instagram.com/murilloprado_"><img align="center" height="30" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" target="_blank"><a/>
   &nbsp;&nbsp;
-  <a href = "https://github.com/MuriloNP"><img align="center" height="30" src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/github-512.png" target="_blank"><a/>
-  &nbsp;&nbsp;
   <a href = "#"><img align="center" height="30" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-512.png" target="_blank"><a/>
   &nbsp;&nbsp;
   <a href = "https://steamcommunity.com/profiles/76561198293528191/"><img align="center" height="30" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/steam-512.png" target="_blank"><a/>
