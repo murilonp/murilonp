@@ -1,5 +1,5 @@
 # Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-📌Olá, meu nome é Murilo, já trabalhei como suporte técnico(TI), Front-End e com desenvolvimento de games 🎮, atualmente focado em Web, Front-End e Back-End 🖥️.
+📌Olá, meu nome é Murilo, tenho 26 anos, já trabalhei como suporte técnico(TI), Front-End e com desenvolvimento de games 🎮, atualmente focado em Web, Front-End e Back-End 🖥️.
   
 <div align="center">
   <a href="https://github.com/MuriloNP">
