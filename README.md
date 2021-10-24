@@ -1,4 +1,4 @@
-# Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<h1>Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 📌Olá, meu nome é Murilo, já trabalhei como suporte técnico(TI), Front-End e com desenvolvimento de games 🎮, atualmente focado em Web, Front-End e Back-End 🖥️.
   
 <div align="center">
@@ -9,7 +9,7 @@
 
 #### 🌎 "Vontade, Objetivo e Consistência".
   
-🛠️ Tecnologias:
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
   
 <div style="display: inline_block">
   <img align="center" alt="Murilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
