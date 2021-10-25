@@ -55,7 +55,7 @@ Follow me: 👇
     
 <p align="center"> 
 
- ## Total de Visitas no perfil :detective: <br>
+ ## Total Visits on profile :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/murilonp/count.svg" />
  </p>
