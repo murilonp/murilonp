@@ -3,8 +3,8 @@
   
 <div align="center">
   <a href="https://github.com/MuriloNP">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=MuriloNP&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloNP&layout=compact&langs_count=7&theme=github_dark">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=MuriloNP&show_icons=true&hide_border=true&&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&include_all_commits=true&count_private=true">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloNP&layout=compact&langs_count=15&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true">
 </div>
 
 #### 🌎 "Vontade, Objetivo e Consistência".
