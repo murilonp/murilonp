@@ -28,17 +28,17 @@
 ##
 Follow me: 👇
 <div>
-  <a href = "mailto:murilloprado457@gmail.com"><img align="center" height="30" src="https://cdn0.iconfinder.com/data/icons/lumin-social-media-icons/512/Gmail-512.png" target="_blank"><a/>
+  <a href = "mailto:murilloprado457@gmail.com"><img align="center" height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/gmail2.svg" target="_blank"><a/>
   &nbsp;&nbsp;
-  <a href = "https://www.linkedin.com/in/murilo-nascimento-473162205"><img align="center" height="30" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" target="_blank"><a/>
+  <a href = "https://www.linkedin.com/in/murilo-nascimento-473162205"><img align="center" height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/linkedin.svg" target="_blank"><a/>
   &nbsp;&nbsp;
   <a href = "https://www.facebook.com/murilo.prado.73"><img align="center" height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/facebook2.svg" target="_blank"><a/>
   &nbsp;&nbsp;
-  <a href = "https://www.instagram.com/murilloprado_"><img align="center" height="30" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" target="_blank"><a/>
+  <a href = "https://www.instagram.com/murilloprado_"><img align="center" height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/instagram.svg" target="_blank"><a/>
   &nbsp;&nbsp;
-  <a href = "#"><img align="center" height="30" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-512.png" target="_blank"><a/>
+  <a href = "#"><img align="center" height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/twitter.svg" target="_blank"><a/>
   &nbsp;&nbsp;
-  <a href = "https://steamcommunity.com/profiles/76561198293528191/"><img align="center" height="30" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/steam-512.png" target="_blank"><a/>
+  <a href = "https://steamcommunity.com/profiles/76561198293528191/"><img align="center" height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/steam.svg" target="_blank"><a/>
   &nbsp;&nbsp;
 </div>
     
