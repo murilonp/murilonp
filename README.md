@@ -40,7 +40,7 @@
 Connect With Me<img src="https://github.com/MuriloNP/murilonp/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   
 <div style="display: inline_block">
-  <a href = "mailto:murilloprado457@gmail.com"><code><img height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/gmail2.svg" target="_blank"></code><a/>
+  <a href = "mailto:murilloprado457@gmail.com"><code><img height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/gmail3.svg" target="_blank"></code><a/>
   &nbsp;&nbsp;
   <a href = "https://www.linkedin.com/in/murilo-nascimento-473162205"><code><img height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/linkedin3.svg" target="_blank"></code><a/>
   &nbsp;&nbsp;
