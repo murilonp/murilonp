@@ -59,3 +59,6 @@ Follow me: 👇
   <a href="https://github.com/MuriloNP/projeto-responsividade"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=projeto-responsividade&theme=github_dark"></a>
   <a href="https://github.com/MuriloNP/nlw-heat"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=nlw-heat&theme=github_dark"></a>
 </div>
+
+-----
+**Credits**: [MuriloNP](https://github.com/MuriloNP)
