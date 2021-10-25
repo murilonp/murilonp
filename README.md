@@ -57,5 +57,5 @@ Follow me: 👇
   <a href="https://github.com/MuriloNP/tela-de-cadastro"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=tela-de-cadastro&theme=github_dark"></a>
   <a href="https://github.com/MuriloNP/sistema-hoteleiro"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=sistema-hoteleiro&theme=github_dark"></a>
   <a href="https://github.com/MuriloNP/projeto-responsividade"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=projeto-responsividade&theme=github_dark"></a>
-  <a href="https://github.com/MuriloNP/relogio-digital"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=relogio-digital&theme=github_dark"></a>
+  <a href="https://github.com/MuriloNP/nlw-heat"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=nlw-heat&theme=github_dark"></a>
 </div>
