@@ -50,7 +50,7 @@ Connect With Me<img src="https://github.com/MuriloNP/murilonp/blob/main/GIF/Hand
   &nbsp;&nbsp;
   <a href = "#"><code><img height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/twitter2.svg" target="_blank"></code><a/>
   &nbsp;&nbsp;
-  <a href = "https://steamcommunity.com/profiles/76561198293528191/"><code><img height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/steam3.svg" target="_blank"></code><a/>
+  <a href = "https://steamcommunity.com/profiles/76561198293528191/"><code><img height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/steam4.svg" target="_blank"></code><a/>
   &nbsp;&nbsp;
 </div>
     
