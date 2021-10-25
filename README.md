@@ -35,7 +35,9 @@
 </div>
   
 ##
-Follow me: 👇
+  
+Connect With Me<img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+  
 <div>
   <a href = "mailto:murilloprado457@gmail.com"><img align="center" height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/gmail2.svg" target="_blank"><a/>
   &nbsp;&nbsp;
