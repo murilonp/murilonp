@@ -4,7 +4,7 @@
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <a target="_blank">
-    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
+    <img src="https://github.com/MuriloNP/murilonp/blob/main/GIF/Hi.gif" width="30px" />
   </a>
 </h1>
 
