@@ -31,6 +31,7 @@
   <code><img alt="Murilo-Nodejs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
   <code><img alt="Murilo-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
   <code><img alt="Murilo-Bash" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"></code>
+  <code><img alt="Murilo-Debian" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"></code>
   <code><img alt="Murilo-VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
 </div>
   
@@ -38,18 +39,18 @@
   
 Connect With Me<img src="https://github.com/MuriloNP/murilonp/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   
-<div>
-  <a href = "mailto:murilloprado457@gmail.com"><img align="center" height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/gmail2.svg" target="_blank"><a/>
+<div style="display: inline_block">
+  <a href = "mailto:murilloprado457@gmail.com"><code><img height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/gmail2.svg" target="_blank"></code><a/>
   &nbsp;&nbsp;
-  <a href = "https://www.linkedin.com/in/murilo-nascimento-473162205"><img align="center" height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/linkedin.svg" target="_blank"><a/>
+  <a href = "https://www.linkedin.com/in/murilo-nascimento-473162205"><code><img height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/linkedin.svg" target="_blank"></code><a/>
   &nbsp;&nbsp;
-  <a href = "https://www.facebook.com/murilo.prado.73"><img align="center" height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/facebook2.svg" target="_blank"><a/>
+  <a href = "https://www.facebook.com/murilo.prado.73"><code><img height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/facebook2.svg" target="_blank"></code><a/>
   &nbsp;&nbsp;
-  <a href = "https://www.instagram.com/murilloprado_"><img align="center" height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/instagram.svg" target="_blank"><a/>
+  <a href = "https://www.instagram.com/murilloprado_"><code><img height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/instagram.svg" target="_blank"></code><a/>
   &nbsp;&nbsp;
-  <a href = "#"><img align="center" height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/twitter.svg" target="_blank"><a/>
+  <a href = "#"><code><img height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/twitter.svg" target="_blank"></code><a/>
   &nbsp;&nbsp;
-  <a href = "https://steamcommunity.com/profiles/76561198293528191/"><img align="center" height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/steam.svg" target="_blank"><a/>
+  <a href = "https://steamcommunity.com/profiles/76561198293528191/"><code><img height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/steam.svg" target="_blank"></code><a/>
   &nbsp;&nbsp;
 </div>
     
