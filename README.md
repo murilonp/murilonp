@@ -56,15 +56,16 @@ Connect With Me<img src="https://github.com/MuriloNP/murilonp/blob/main/GIF/Hand
     
 ![Snake animation](https://github.com/MuriloNP/murilonp/blob/output/github-contribution-grid-snake.svg)
     
+<h2 align="center"> 
+  Total Visits on profile :detective: <br>
+</h2>
+    
 <p align="center"> 
-
- ## Total Visits on profile :detective: <br>
- <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/murilonp/count.svg" />
- </p>
-
 </p>
-
+    
+##
+    
 <div align="center">
   <a href="https://github.com/MuriloNP/tela-de-cadastro"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=tela-de-cadastro&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true"></a>
   <a href="https://github.com/MuriloNP/sistema-hoteleiro"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=sistema-hoteleiro&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true"></a>
