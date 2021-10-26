@@ -71,6 +71,16 @@ Connect With Me<img src="https://github.com/MuriloNP/murilonp/blob/main/GIF/Hand
   <a href="https://github.com/MuriloNP/projeto-responsividade"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=projeto-responsividade&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true"></a>
   <a href="https://github.com/MuriloNP/nlw-heat"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=nlw-heat&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true"></a>
 </div>
+    
+##
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuriloNP&theme=chartreuse-dark&hide_border=true">
+</div>
+<br/>
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=MuriloNP&bg_color=000000&color=94b4a4&line=94b4a4&point=FFFFFF&hide_border=true&area=true">
+</div>
+    
 -----
 **Credits**: [MuriloNP](https://github.com/MuriloNP)
