@@ -1,19 +1,19 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/MuriloNP/murilonp/blob/main/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="https://github.com/murilonp/murilonp/blob/main/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <a target="_blank">
-    <img src="https://github.com/MuriloNP/murilonp/blob/main/GIF/Hi.gif" width="30px" />
+    <img src="https://github.com/murilonp/murilonp/blob/main/GIF/Hi.gif" width="30px" />
   </a>
 </h1>
 
 📌Hi, my name is Murilo, I'm 27 years old, I've worked as a technical support (IT), Front-End and game development 🎮, currently focused on Web, Full Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 16px>
   
 <div align="center">
-  <a href="https://github.com/MuriloNP">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=MuriloNP&show_icons=true&hide_border=true&&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&include_all_commits=true&count_private=true">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloNP&layout=compact&langs_count=15&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true">
+  <a href="https://github.com/murilonp">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=murilonp&show_icons=true&hide_border=true&&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&include_all_commits=true&count_private=true">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilonp&layout=compact&langs_count=15&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true">
 </div>
 
 #### 🌎 "Vontade, Objetivo e Consistência".
@@ -37,24 +37,24 @@
   
 ##
   
-Connect With Me<img src="https://github.com/MuriloNP/murilonp/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+Connect With Me<img src="https://github.com/murilonp/murilonp/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   
 <div style="display: inline_block">
-  <a href = "mailto:murilloprado457@gmail.com"><code><img height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/gmail3.svg" target="_blank"></code><a/>
+  <a href = "mailto:murilloprado457@gmail.com"><code><img height="30" src="https://raw.githubusercontent.com/murilonp/murilonp/main/SVG/gmail3.svg" target="_blank"></code><a/>
   &nbsp;&nbsp;
-  <a href = "https://www.linkedin.com/in/murilo-nascimento-473162205"><code><img height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/linkedin3.svg" target="_blank"></code><a/>
+  <a href = "https://www.linkedin.com/in/murilo-nascimento-473162205"><code><img height="30" src="https://raw.githubusercontent.com/murilonp/murilonp/main/SVG/linkedin3.svg" target="_blank"></code><a/>
   &nbsp;&nbsp;
-  <a href = "https://www.facebook.com/murilo.prado.73"><code><img height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/facebook.svg" target="_blank"></code><a/>
+  <a href = "https://www.facebook.com/murilo.prado.73"><code><img height="30" src="https://raw.githubusercontent.com/murilonp/murilonp/main/SVG/facebook.svg" target="_blank"></code><a/>
   &nbsp;&nbsp;
-  <a href = "https://www.instagram.com/murilloprado_"><code><img height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/instagram3.svg" target="_blank"></code><a/>
+  <a href = "https://www.instagram.com/murilloprado_"><code><img height="30" src="https://raw.githubusercontent.com/murilonp/murilonp/main/SVG/instagram3.svg" target="_blank"></code><a/>
   &nbsp;&nbsp;
-  <a href = "#"><code><img height="30" src="https://raw.githubusercontent.com/MuriloNP/murilonp/main/SVG/twitter2.svg" target="_blank"></code><a/>
+  <a href = "#"><code><img height="30" src="https://raw.githubusercontent.com/murilonp/murilonp/main/SVG/twitter2.svg" target="_blank"></code><a/>
   &nbsp;&nbsp;
-  <a href = "https://steamcommunity.com/profiles/76561198293528191/"><code><img height="30" src="https://github.com/MuriloNP/murilonp/blob/main/SVG/steam4.svg" target="_blank"></code><a/>
+  <a href = "https://steamcommunity.com/profiles/76561198293528191/"><code><img height="30" src="https://github.com/murilonp/murilonp/blob/main/SVG/steam4.svg" target="_blank"></code><a/>
   &nbsp;&nbsp;
 </div>
     
-![Snake animation](https://github.com/MuriloNP/murilonp/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/murilonp/murilonp/blob/output/github-contribution-grid-snake.svg)
     
 <h2 align="center"> 
   Total Visits on profile :detective: <br>
@@ -67,21 +67,21 @@ Connect With Me<img src="https://github.com/MuriloNP/murilonp/blob/main/GIF/Hand
 ##
     
 <div align="center">
-  <a href="https://github.com/MuriloNP/tela-de-cadastro"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=tela-de-cadastro&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true"></a>
-  <a href="https://github.com/MuriloNP/sistema-hoteleiro"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=sistema-hoteleiro&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true"></a>
-  <a href="https://github.com/MuriloNP/projeto-responsividade"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=projeto-responsividade&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true"></a>
-  <a href="https://github.com/MuriloNP/nlw-heat"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloNP&repo=nlw-heat&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true"></a>
+  <a href="https://github.com/murilonp/tela-de-cadastro"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=murilonp&repo=tela-de-cadastro&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true"></a>
+  <a href="https://github.com/murilonp/sistema-hoteleiro"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=murilonp&repo=sistema-hoteleiro&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true"></a>
+  <a href="https://github.com/murilonp/projeto-responsividade"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=murilonp&repo=projeto-responsividade&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true"></a>
+  <a href="https://github.com/murilonp/nlw-heat"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=murilonp&repo=nlw-heat&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true"></a>
 </div>
     
 ##
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuriloNP&theme=chartreuse-dark&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murilonp&theme=chartreuse-dark&hide_border=true">
 </div>
 <br/>
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=MuriloNP&bg_color=000000&color=94b4a4&line=94b4a4&point=FFFFFF&hide_border=true&area=true">
+  <img src="https://activity-graph.herokuapp.com/graph?username=murilonp&bg_color=000000&color=94b4a4&line=94b4a4&point=FFFFFF&hide_border=true&area=true">
 </div>
     
 -----
-**Credits**: [MuriloNP](https://github.com/MuriloNP)
+**Credits**: [murilonp](https://github.com/murilonp)
