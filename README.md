@@ -75,11 +75,11 @@ Connect With Me<img src="https://github.com/murilonp/murilonp/blob/main/GIF/Hand
 ##
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murilonp&theme=chartreuse-dark&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=murilonp&theme=dracula&border_radius=4.6&stroke=A394F0&ring=A394F0&background=15141B&fire=61FFCA&border=61FFCA&currStreakNum=A394F0&sideNums=A394F0&currStreakLabel=A394F0&sideLabels=A394F0&dates=61FFCA">
 </div>
 <br/>
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=murilonp&bg_color=000000&color=94b4a4&line=94b4a4&point=FFFFFF&hide_border=true&area=true">
+  <img src="https://activity-graph.herokuapp.com/graph?username=murilonp&bg_color=15141B&color=61FFCA&line=A394F0&point=61FFCA&hide_border=true&area=true">
 </div>
     
 -----
