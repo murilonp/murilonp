@@ -76,8 +76,8 @@ Connect With Me<img src="https://github.com/murilonp/murilonp/blob/main/GIF/Hand
     
 ##
 <div align="center">
-  <a href="https://github.com/murilonp"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murilonp&theme=github_dark&hide_border=true" width="615rem" alt="murilonp"/></a>
-  <a href="https://github.com/murilonp"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=github_dark&utcOffset=8" width="300rem" alt="murilonp"/></a>
+  <a href="https://github.com/murilonp"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murilonp&theme=github_dark&hide_border=true" height="180em" alt="murilonp"/></a>
+  <a href="https://github.com/murilonp"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=github_dark&utcOffset=8" height="180em" alt="murilonp"/></a>
 </div>
 
 ##
