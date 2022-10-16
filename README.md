@@ -16,7 +16,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilonp&layout=compact&langs_count=6&text_color=A394F0&bg_color=15141B&title_color=61FFCA&border_color=61FFCA">
 </div>
 
-#### 🌎 "Vontade, Objetivo e Consistência".
+####
+
+<div>
+  <img src="https://github.com/murilonp/murilonp/blob/main/GIF/Earth.gif" width="15px" style="max-width:100%;">
+  &nbsp;"Vontade, Objetivo e Consistência".
+</div>
+
+####
   
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
   
