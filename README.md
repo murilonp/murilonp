@@ -12,7 +12,7 @@
   
 <div align="center">
   <a href="https://github.com/murilonp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonp&show_icons=true&border_color=61FFCA&title_color=61FFCA&amp&icon_color=A277FF&amp&text_color=A277FF&amp&bg_color=15141B&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonp&show_icons=true&border_color=61FFCA&title_color=61FFCA&amp&icon_color=61FFCA&amp&text_color=A277FF&amp&bg_color=15141B&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilonp&layout=compact&langs_count=6&text_color=A394F0&bg_color=15141B&title_color=61FFCA&border_color=61FFCA">
 </div>
 
