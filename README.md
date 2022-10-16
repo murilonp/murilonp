@@ -12,8 +12,8 @@
   
 <div align="center">
   <a href="https://github.com/murilonp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonp&show_icons=true&hide_border=true&&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilonp&layout=compact&langs_count=15&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilonp&show_icons=true&hide_border=true&&title_color=61FFCA&amp&icon_color=A277FF&amp&text_color=A277FF&amp&bg_color=15141B&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilonp&layout=compact&langs_count=15&text_color=A394F0&bg_color=15141B&title_color=61FFCA&hide_border=true">
 </div>
 
 #### 🌎 "Vontade, Objetivo e Consistência".
@@ -66,10 +66,10 @@ Connect With Me<img src="https://github.com/murilonp/murilonp/blob/main/GIF/Hand
 ##
     
 <div align="center">
-  <a href="https://github.com/murilonp/tela-de-cadastro"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=murilonp&repo=tela-de-cadastro&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true"></a>
-  <a href="https://github.com/murilonp/api-restful-ts"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=murilonp&repo=api-restful-ts&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true"></a>
-  <a href="https://github.com/murilonp/todo-list-react"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=murilonp&repo=todo-list-react&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true"></a>
-  <a href="https://github.com/murilonp/nlw-heat"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=murilonp&repo=nlw-heat&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true"></a>
+  <a href="https://github.com/murilonp/tela-de-cadastro"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=murilonp&repo=tela-de-cadastro&text_color=A394F0&bg_color=15141B&title_color=61FFCA&hide_border=true"></a>
+  <a href="https://github.com/murilonp/api-restful-ts"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=murilonp&repo=api-restful-ts&text_color=A394F0&bg_color=15141B&title_color=61FFCA&hide_border=true"></a>
+  <a href="https://github.com/murilonp/todo-list-react"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=murilonp&repo=todo-list-react&text_color=A394F0&bg_color=15141B&title_color=61FFCA&hide_border=true"></a>
+  <a href="https://github.com/murilonp/nlw-heat"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=murilonp&repo=nlw-heat&text_color=A394F0&bg_color=15141B&title_color=61FFCA&hide_border=true"></a>
 </div>
     
 ##
