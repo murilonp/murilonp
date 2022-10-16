@@ -75,6 +75,12 @@ Connect With Me<img src="https://github.com/murilonp/murilonp/blob/main/GIF/Hand
 </div>
     
 ##
+<div align="center">
+  <a href="https://github.com/murilonp"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murilonp&theme=dracula&hide_border=true" width="615rem" alt="murilonp"/></a>
+  <a href="https://github.com/murilonp"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=dracula&utcOffset=8" width="300rem" alt="murilonp"/></a>
+</div>
+
+##
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=murilonp&theme=dracula&border_radius=4.6&stroke=A394F0&ring=A394F0&background=15141B&fire=61FFCA&border=61FFCA&currStreakNum=A394F0&sideNums=A394F0&currStreakLabel=A394F0&sideLabels=A394F0&dates=61FFCA">
