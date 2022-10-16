@@ -60,7 +60,7 @@ Connect With Me<img src="https://github.com/murilonp/murilonp/blob/main/GIF/Hand
 </h2>
     
 <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/murilonp/count.svg" />
+   <img alingn="center" src="https://raw.githubusercontent.com/murilonp/murilonp/main/SVG/count.svg" />
 </p>
     
 ##
