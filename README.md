@@ -60,8 +60,10 @@ Connect With Me<img src="https://github.com/murilonp/murilonp/blob/main/GIF/Hand
 </h2>
     
 <p align="center"> 
-   <img alingn="center" src="https://raw.githubusercontent.com/murilonp/murilonp/main/SVG/count.svg" />
+   <img src="https://profile-counter.glitch.me/murilonp/count.svg">
 </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murilonp&theme=dracula&column=6" alt="murilonp" /></a> </p>
     
 ##
     
