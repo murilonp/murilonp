@@ -78,7 +78,7 @@ Connect With Me<img src="https://github.com/murilonp/murilonp/blob/main/GIF/Hand
   <a href="https://github.com/murilonp/tela-de-cadastro"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=murilonp&repo=tela-de-cadastro&text_color=A394F0&bg_color=15141B&title_color=61FFCA&border_color=61FFCA"></a>
   <a href="https://github.com/murilonp/api-restful-ts"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=murilonp&repo=api-restful-ts&text_color=A394F0&bg_color=15141B&title_color=61FFCA&border_color=61FFCA"></a>
   <a href="https://github.com/murilonp/todo-list-react"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=murilonp&repo=todo-list-react&text_color=A394F0&bg_color=15141B&title_color=61FFCA&border_color=61FFCA"></a>
-  <a href="https://github.com/murilonp/nlw-heat"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=murilonp&repo=nlw-heat&text_color=A394F0&bg_color=15141B&title_color=61FFCA&border_color=61FFCA"></a>
+  <a href="https://github.com/murilonp/nlw-heat"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=murilonp&repo=explorer-lab-01&text_color=A394F0&bg_color=15141B&title_color=61FFCA&border_color=61FFCA"></a>
 </div>
     
 ##
