@@ -20,7 +20,7 @@
 
 <div>
   <img src="https://github.com/murilonp/murilonp/blob/main/GIF/Earth.gif" width="15px" style="max-width:100%;">
-  &nbsp;"Vontade, Objetivo e Consistência".
+  &nbsp;"Will, Purpose and Consistency".
 </div>
 
 ####
