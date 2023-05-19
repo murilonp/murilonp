@@ -70,7 +70,7 @@ Connect With Me<img src="https://github.com/murilonp/murilonp/blob/main/GIF/Hand
    <img src="https://profile-counter.glitch.me/murilonp/count.svg">
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murilonp&theme=dracula&column=6" alt="murilonp" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murilonp&theme=darkhub&column=6" alt="murilonp" /></a> </p>
     
 ##
     
