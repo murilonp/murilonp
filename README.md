@@ -59,8 +59,7 @@ Connect With Me<img src="https://github.com/murilonp/murilonp/blob/main/GIF/Hand
   <a href = "https://steamcommunity.com/profiles/76561198293528191/"><code><img height="30" src="https://github.com/murilonp/murilonp/blob/main/SVG/steam4.svg" target="_blank"></code><a/>
   &nbsp;&nbsp;
 </div>
-    
-![Snake animation](https://github.com/murilonp/murilonp/blob/output/github-contribution-grid-snake.svg)
+
     
 <h2 align="center"> 
   Total Visits on profile :detective: <br>
